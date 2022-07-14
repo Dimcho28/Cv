@@ -1,0 +1,92 @@
+.box-heder {
+    background-image: url(images/cc-bg-1.jpg);
+    height: 80vh;
+}
+
+.nav-item {
+    display: inline;
+}
+
+.navbar-nav {
+    width: 100%;
+}
+
+.nav-link{
+    color: #edf0f0;
+    text-transform: uppercase;
+
+}
+
+.nav-link:hover {
+    color: #edf0f0;
+    background-color: #4f716c;
+    padding: 10px;
+    border-radius: 10px 0px 10px 0px;
+    margin: 5px;
+}
+
+.box-heder-img-text{
+    color: #edf0f0;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.img-heder{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    margin-bottom: 25px ;
+}
+
+.h-heder {
+    font-weight: bolder;
+}
+
+.bt-heder {
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px ;
+    color: #edf0f0;
+    background-color: #378c3f;
+}
+
+.bt-heder:hover {
+    border: none;
+    border-radius: 5px;
+    padding: 10px 25px ;
+    color: #edf0f0;
+    background-color: #40a249;
+}
+
+.font-awesome-icon-heder{
+    color: #edf0f0;
+    font-size: 40px;
+    margin-left: 15px ;
+    background-color: #888888;
+    border-radius: 100px;
+    border: none;
+    
+}
+
+.font-awesome-icon-heder:hover{
+    color: #edf0f0;
+    font-size: 40px;
+    margin-left: 15px ;
+    background-color: #888888;
+    border-radius: 100px;
+    border: none;
+    
+}
+
+.social-media{
+    text-align: center;
+}
+/* ============================================= */
+
+.box-progress{
+    width: 850px;
+    height: 200px;
+    background-color: #378c3f;
+    padding: 10px;
+}
